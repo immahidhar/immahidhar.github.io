@@ -1,10 +1,10 @@
 ---
-title: 'Hello, my name is'
-name: 'Yashita Namdeo'
+title: 'Hi there! my name is'
+name: 'Mahidhar Reddy Narala'
 subtitle: 'I love exploring new things!'
 buttonText: 'Get In Touch'
 ---
 
-I'm a Final Year Computer Science Engineering Student at SVVV, Indore. Primarily interested in Web Development and Data Science.
+I'm a passionate Software Engineer with a penchant for dabbling in things I find curious. Primarily interested in Backend Development and Data Science.
 
-I enjoy learning new skills and implementing them in real life!
+I enjoy learning new skills and tinkering with new technologies!

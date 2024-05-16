@@ -3,15 +3,12 @@ title: 'About Me'
 avatar: 'me.jpg'
 skills:
   - Coding
-  - Reading
-  - Painting
-  - Crafting
+  - Designing
   - Problem Solving
-  - Team Management
-  - Mentoring
+  - Software Development
 ---
 
-Hello! I'm Yashita Namdeo, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hi there! I'm Mahidhar Reddy Narala, a passionate Software Engineer originally from India.
 
 I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
 
