@@ -57,6 +57,8 @@ cover/
 
 # Node
 node_modules
+public
+public/
 
 # Django stuff:
 *.log
