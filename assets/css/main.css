@@ -3434,6 +3434,30 @@ input, select, textarea {
 			margin-bottom: 0.8em;
 			padding-bottom: 0.4em;
 		}
+		
+		#banner h3 {
+			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
+			-webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, -webkit-filter 0.25s ease;
+			-ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, -ms-filter 0.25s ease;
+			transition: opacity 0.5s ease, transform 0.5s ease, filter 0.25s ease;
+			-moz-transform: translateX(0);
+			-webkit-transform: translateX(0);
+			-ms-transform: translateX(0);
+			transform: translateX(0);
+			-moz-transition-delay: 0.65s;
+			-webkit-transition-delay: 0.65s;
+			-ms-transition-delay: 0.65s;
+			transition-delay: 0.65s;
+			-moz-filter: blur(0);
+			-webkit-filter: blur(0);
+			-ms-filter: blur(0);
+			filter: blur(0);
+			opacity: 1;
+			/* border-bottom: solid 2px rgba(255, 255, 255, 0.125); */
+			font-size: 2em;
+			margin-bottom: 0.8em;
+			padding-bottom: 0.4em;
+		}
 
 		#banner p {
 			-moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, -moz-filter 0.25s ease;
@@ -3545,6 +3569,16 @@ input, select, textarea {
 			-ms-filter: blur(2px);
 			filter: blur(2px);
 		}
+
+/* SKILLS */
+#skills {
+	display: flex;
+	height: 200px;
+  }
+  
+  #skills > div {
+	flex-grow: 1;
+  }
 
 /* Wrapper */
 
